@@ -1,0 +1,76 @@
+@import 'https://fonts.googleapis.com/css?family=Droid+Sans|Droid+Sans+Mono|Droid+Serif';
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+@import url('https://fonts.googleapis.com/css?family=Teko');
+html,
+body{
+    height: 100%;
+    font-family: 'Droid Sans', 'more font stack stuff', sans-serif;
+}
+
+img{
+    max-width: 100%;
+}
+
+h2{
+    font-size:2rem;
+    font-family: 'Teko', sans-serif;
+    color:azure;
+}
+
+#jumbo,
+#help-main-content{
+    margin-top: 2rem;
+}
+
+.section-content{
+    padding: 1rem 0.5rem;
+}
+
+#footerContent{
+    color:azure;
+    font-size: 0.9rem;
+    padding-top: 2rem ;border-top: .05rem solid #e5e5e5;
+    margin: 3rem 2;
+}
+#social-icon li {
+    display: inline;
+    padding: 0 1rem;
+    float: right;
+}
+#social-icon li:nth-child(4) {
+    border-right:2px solid white;
+}
+#social-icon li:nth-child(2) {
+    border-right:2px solid white;
+}
+#social-icon li:nth-child(3) {
+    border-right:2px solid white;
+}
+#social-icon li:hover{
+    color: yellow;
+}
+
+#contactForm,
+#map{
+    padding-top: 2.5rem;
+}
+h3 {
+    color:beige;
+    font-size: 1.2rem;
+    font-family: 'Abril Fatface', cursive;
+}
+
+div card{
+    background-color: gainsboro;
+}
+
+
+
+
+
+
+
+
+
+
+
